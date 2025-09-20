@@ -1,4 +1,4 @@
-# java-To-Do-List-Application-with-DSA-implementation
+# To-Do List
 Implemented CRUD operations, search and sorting algorithms to manage student records efficiently
 import java.util.*;
 
